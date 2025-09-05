@@ -1,0 +1,15 @@
+C:\Users\sabim\Escritorio\practica\bin\Debug\net8.0\practica.exe
+C:\Users\sabim\Escritorio\practica\bin\Debug\net8.0\practica.deps.json
+C:\Users\sabim\Escritorio\practica\bin\Debug\net8.0\practica.runtimeconfig.json
+C:\Users\sabim\Escritorio\practica\bin\Debug\net8.0\practica.dll
+C:\Users\sabim\Escritorio\practica\bin\Debug\net8.0\practica.pdb
+C:\Users\sabim\Escritorio\practica\obj\Debug\net8.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabim\Escritorio\practica\obj\Debug\net8.0\practica.AssemblyInfoInputs.cache
+C:\Users\sabim\Escritorio\practica\obj\Debug\net8.0\practica.AssemblyInfo.cs
+C:\Users\sabim\Escritorio\practica\obj\Debug\net8.0\practica.csproj.CoreCompileInputs.cache
+C:\Users\sabim\Escritorio\practica\obj\Debug\net8.0\practica.sourcelink.json
+C:\Users\sabim\Escritorio\practica\obj\Debug\net8.0\practica.dll
+C:\Users\sabim\Escritorio\practica\obj\Debug\net8.0\refint\practica.dll
+C:\Users\sabim\Escritorio\practica\obj\Debug\net8.0\practica.pdb
+C:\Users\sabim\Escritorio\practica\obj\Debug\net8.0\practica.genruntimeconfig.cache
+C:\Users\sabim\Escritorio\practica\obj\Debug\net8.0\ref\practica.dll
